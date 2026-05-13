@@ -183,12 +183,12 @@ Selected screenshots or example outputs may be included for demonstration purpos
 ## Repository Structure
 
 ```text
-├── preprocess_data.R
+├── preprocess.R
 ├── train_model.R
-├── score_predictions.R
-├── predict_pipeline.py
+├── predict_2026.R
+├── ml_apply_model.py
 ├── README.md
-└── screenshots/
+└── apply_model.pkl
 ```
 
 ---
